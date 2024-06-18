@@ -1,4 +1,7 @@
-# Orden de Trabajo 1: Actualización de RKE2
+# Orden de Trabajo 1: 
+
+## [Actualización de RKE2](#id)
+
 | Sección | Detalles |
 |---------|----------|
 | Objetivo | - Actualizar RKE2 a la última versión estable para aprovechar las mejoras de seguridad, rendimiento y funcionalidad. |
@@ -9,7 +12,9 @@
 | Próximas Tareas | - Monitoreo posterior a la actualización para identificar posibles problemas.<br>- Actualización de la documentación y capacitación del equipo sobre los cambios. |
 | Resumen por Herramienta Actualizada | - RKE2:<br>  - Actualizado a la última versión estable.<br>  - Mejoras en seguridad, rendimiento y funcionalidad. |
 
-# Orden de Trabajo 2: Actualización de Rancher
+# Orden de Trabajo 2: 
+## [Actualización de Rancher](#id)
+
 | Sección | Detalles |
 |---------|----------|
 | Objetivo | - Actualizar Rancher a la última versión para obtener nuevas características y mejoras de gestión. |
@@ -20,7 +25,9 @@
 | Próximas Tareas | - Monitoreo posterior a la actualización para asegurar la estabilidad de Rancher.<br>- Actualización de la documentación y capacitación del equipo sobre las nuevas características. |
 | Resumen por Herramienta Actualizada | - Rancher:<br>  - Actualizado a la última versión.<br>  - Nuevas funcionalidades y mejoras en la gestión de clusters Kubernetes. |
 
-# Orden de Trabajo 3: Actualización de APISIX
+# Orden de Trabajo 3:
+## [Actualización de APISIX](#id)
+
 | Sección | Detalles |
 |---------|----------|
 | Objetivo | - Actualizar APISIX a la última versión para obtener mejoras de rendimiento, seguridad y funcionalidad. |
@@ -31,7 +38,9 @@
 | Próximas Tareas | - Monitoreo posterior a la actualización para asegurar la estabilidad de APISIX.<br>- Actualización de la documentación y capacitación del equipo sobre los cambios. |
 | Resumen por Herramienta Actualizada | - APISIX:<br>  - Actualizado a la última versión.<br>  - Mejoras en rendimiento, seguridad y funcionalidad. |
 
-# Orden de Trabajo 4: Actualización de Grafana y Prometheus
+# Orden de Trabajo 4: "32HH"
+## [Actualización de Grafana y Prometheus](#id)
+
 | Sección | Detalles |
 |---------|----------|
 | Objetivo | - Actualizar Grafana y Prometheus a las últimas versiones para aprovechar las nuevas características y mejoras. |
@@ -42,7 +51,10 @@
 | Próximas Tareas | - Monitoreo posterior a las actualizaciones para asegurar la estabilidad del sistema de monitoreo.<br>- Actualización de la documentación y capacitación del equipo sobre las nuevas características. |
 | Resumen por Herramienta Actualizada | - Grafana:<br>  - Actualizado a la última versión.<br>  - Nuevas funcionalidades y mejoras en la visualización de métricas.<br>- Prometheus:<br>  - Actualizado a la última versión.<br>  - Mejoras en el rendimiento y la recopilación de métricas. |
 
-# Orden de Trabajo 5: Actualización de Red Hat Satellite
+# Orden de Trabajo 5: 
+
+## [Actualización de Red Hat Satellite](#id)
+
 | Sección | Detalles |
 |---------|----------|
 | Objetivo | - Actualizar Red Hat Satellite a la última versión para obtener nuevas características y mejoras de gestión. |
