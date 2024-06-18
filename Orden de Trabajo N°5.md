@@ -1,6 +1,6 @@
 # Orden de Trabajo 1: 
 
-## [Actualización de RKE2](#id)
+## [Actualización de RKE2](#id)  24-29/06/2024 32HH
 
 | Sección | Detalles |
 |---------|----------|
@@ -13,7 +13,7 @@
 | Resumen por Herramienta Actualizada | - RKE2:<br>  - Actualizado a la última versión estable.<br>  - Mejoras en seguridad, rendimiento y funcionalidad. |
 
 # Orden de Trabajo 2: 
-## [Actualización de Rancher](#id)
+## [Actualización de Rancher](#id)     01-05/06/2024 16HH
 
 | Sección | Detalles |
 |---------|----------|
@@ -26,7 +26,7 @@
 | Resumen por Herramienta Actualizada | - Rancher:<br>  - Actualizado a la última versión.<br>  - Nuevas funcionalidades y mejoras en la gestión de clusters Kubernetes. |
 
 # Orden de Trabajo 3:
-## [Actualización de APISIX](#id)
+## [Actualización de APISIX](#id)     08-13/06/2024 16HH
 
 | Sección | Detalles |
 |---------|----------|
@@ -38,8 +38,8 @@
 | Próximas Tareas | - Monitoreo posterior a la actualización para asegurar la estabilidad de APISIX.<br>- Actualización de la documentación y capacitación del equipo sobre los cambios. |
 | Resumen por Herramienta Actualizada | - APISIX:<br>  - Actualizado a la última versión.<br>  - Mejoras en rendimiento, seguridad y funcionalidad. |
 
-# Orden de Trabajo 4: "32HH"
-## [Actualización de Grafana y Prometheus](#id)
+# Orden de Trabajo 4: 
+## [Actualización de Grafana y Prometheus](#id)   16-21/06/2024 16HH
 
 | Sección | Detalles |
 |---------|----------|
@@ -53,7 +53,7 @@
 
 # Orden de Trabajo 5: 
 
-## [Actualización de Red Hat Satellite](#id)
+## [Actualización de Red Hat Satellite](#id)     24-29/06/2024 16HH
 
 | Sección | Detalles |
 |---------|----------|
